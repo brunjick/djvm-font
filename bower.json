@@ -1,0 +1,17 @@
+{
+  "name": "djvm-font",
+  "authors": [
+    "Mirza Brunjadze <brunjadzem@gmail.com>"
+  ],
+  "description": "DejaVu Sans Mtavruli",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

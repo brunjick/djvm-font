@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "DJVM";
+    src: url(../fonts/DejaVuSansM.eot);
+    src: url(../fonts/DejaVuSansM.eot?#iefix) format("embedded-opentype"),
+         url(../fonts/DejaVuSansM.woff) format("woff"),
+         url(../fonts/DejaVuSansM.ttf) format("truetype"),
+         url(../fonts/DejaVuSansM.svg) format("svg");
+}
