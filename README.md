@@ -15,7 +15,7 @@ $ bower install djvm-font --save
 Place the following code between `<head>...</head>` tag in your HTML:
 
 ```html
-<link rel="stylesheet" href="/bower_components/dejavu-sans-condensed-oblique/css/dejavu-sans-condensed-oblique.css">
+<link rel="stylesheet" href="/bower_components/djvm-font/css/djvm.css">
 ```
 
 
