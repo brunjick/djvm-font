@@ -1,6 +1,6 @@
 @font-face {
     font-family: "DJVM";
-    font-style: normal;
+    font-weight: normal;
     src: url(../fonts/DejaVuSansM.eot);
     src: url(../fonts/DejaVuSansM.eot?#iefix) format("embedded-opentype"),
          url(../fonts/DejaVuSansM.woff) format("woff"),
@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: "DJVM";
-    font-style: bold;
+    font-weight: bold;
     src: url(../fonts/DejaVuSansM-Bold.eot);
     src: url(../fonts/DejaVuSansM-Bold.eot?#iefix) format("embedded-opentype"),
          url(../fonts/DejaVuSansM-Bold.woff) format("woff"),
